@@ -8,11 +8,13 @@ https://youtu.be/8kVrY760rYQ
 
 **Dependencies**
 
-pyautogui
+pyautogui (https://pyautogui.readthedocs.io/en/latest/)
 
-https://pyautogui.readthedocs.io/en/latest/
+pynput (https://pypi.org/project/pynput/)
 
 ```pip install pyautogui```
+
+```pip install pynput```
 
 
 **Requirements**
